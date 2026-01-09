@@ -10,6 +10,7 @@
 
 mod aesthetics;
 mod axis;
+mod axis_transform;
 mod bounds;
 mod colors;
 mod cursor;
